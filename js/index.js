@@ -5,7 +5,7 @@ $(document).ready(function(){
   $("#nav").load("/nav/nav_bar.html");
   // Pages
   $("#intro").load("/pages/intro.html");
-  $("#main").load("/pages/skills.html");
+  $("#main").load("/pages/intro.html");
   $("#hobbies").load("/pages/hobbies.html");
   $("#skills").load("/pages/skills.html");
   $("#furrybabies").load("/pages/furry_babies.html");
